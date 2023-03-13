@@ -7,7 +7,7 @@ require (
 	github.com/Djarvur/go-err113 v0.0.0-20200511133814-5174e21577d5
 	github.com/OpenPeeDeeP/depguard v1.0.1
 	github.com/bombsimon/wsl/v3 v3.1.0
-	github.com/daixiang0/gci v0.2.4
+	github.com/daixiang0/gci v0.10.1
 	github.com/denis-tingajkin/go-header v0.3.1
 	github.com/fatih/color v1.10.0
 	github.com/go-critic/go-critic v0.5.2
@@ -50,11 +50,11 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/sonatard/noctx v0.0.1
 	github.com/sourcegraph/go-diff v0.6.1
-	github.com/spf13/cobra v1.1.1
+	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
 	github.com/ssgreg/nlreturn/v2 v2.1.0
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.8.1
 	github.com/tdakkota/asciicheck v0.0.0-20200416190851-d7f85be797a2
 	github.com/tetafro/godot v1.3.2
 	github.com/timakin/bodyclose v0.0.0-20190930140734-f7f2e9bca95e
@@ -64,9 +64,7 @@ require (
 	github.com/ultraware/whitespace v0.0.4
 	github.com/uudashr/gocognit v1.0.1
 	github.com/valyala/quicktemplate v1.6.3
-	golang.org/x/sys v0.0.0-20201009025420-dfb3f7c4e634 // indirect
-	golang.org/x/text v0.3.4 // indirect
-	golang.org/x/tools v0.0.0-20201013201025-64a9e34f3752
+	golang.org/x/tools v0.6.0
 	gopkg.in/yaml.v2 v2.4.0
 	honnef.co/go/tools v0.0.1-2020.1.6
 	mvdan.cc/gofumpt v0.0.0-20200802201014-ab5a8192947d
